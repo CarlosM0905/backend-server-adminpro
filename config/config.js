@@ -1,0 +1,1 @@
+module.exports.SEED = 'laura-avila';
